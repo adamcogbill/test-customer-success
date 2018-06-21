@@ -1,7 +1,3 @@
----
-description: This is some content.
----
-
 # Help resources test book
 
 this is some more content
