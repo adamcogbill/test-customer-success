@@ -1,7 +1,7 @@
 <html>
 <head>
-    <title>My Notes</title>
-    <link href="style.css" rel="stylesheet">
+    
+    <link href="test-customer-success/style/website.css" rel="stylesheet">
 </head>
   </html>
 
