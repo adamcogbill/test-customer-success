@@ -1,4 +1,4 @@
-## Why can't I use colspan attribute inside my <td> tags?
+### Why can't I use colspan attribute inside my <td> tags?
 
 *Last updated: June 22, 2018*
 
