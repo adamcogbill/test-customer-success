@@ -1,3 +1,7 @@
+<link href="test-customer-success/style/website.css" rel="stylesheet"></link> 
+<link rel="test-customer-success/style/website.css" href="styles.css">
+<style> @import url("test-customer-success/style/website.css"); </style>
+
 # Another page
 
 ## Can I become who I want to be?
