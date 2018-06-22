@@ -12,5 +12,7 @@ We recommend that you try to:
 For more on using tables with the Mass.gov CMS, [try our resource on clear, accessible tables](https://medium.com/massdigital/creating-clear-accessible-data-tables-959f8a121cb).
 
 ![Test image](/Medium-33.png)
-[comment]: # (This actually is the most platform independent comment)
+<div>
+test
+</div>
 
