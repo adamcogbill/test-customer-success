@@ -1,5 +1,5 @@
-### Why can't I use colspan attribute inside my <td> tags?
 *Last updated: June 22, 2018*
+### Why can't I use colspan attribute inside my <td> tags?
 
 Quick answer: The Mass.gov CMS automatically strips out spanned cells to make sure that users who use screenreaders can access them (https://webaim.org/techniques/tables/data#headers). 
 
@@ -10,4 +10,3 @@ We recommend that you try to:
 * Continue to use header formatting for the column headers.
 
 For more on using tables with the Mass.gov CMS, (try our resource on clear, accessible tables)[https://medium.com/massdigital/creating-clear-accessible-data-tables-959f8a121cb].
-
