@@ -8,4 +8,4 @@
 * [Untitled](untitled-1.md)
 * [Title](untitled-2.md)
 * [Untitled](untitled-3.md)
-* [Why can't I add a colspan attribute inside a td tag?](test-customer-success/colspan-inside-td.md)
+* [Why can't I add a colspan attribute inside a td tag?](colspan-inside-td.md)
