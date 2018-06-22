@@ -1,6 +1,7 @@
 <html>
 <head>
-    <link href="/style/website.css" rel="stylesheet"></link>
+    <link rel="stylesheet" href="test-customer-success/style/website.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
   </html>
 
