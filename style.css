@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+/** font defaults **/
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p, body> * {
+    font-family: Texta, Montserrat, Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+a {
+    color: light blue;
+    font-weight: bold;
+}
+* hide controls *
+.chart-controls a {
+    pointer-events: none;
+    opacity: 0;
+}
+
+header,
+.favstar{
+    display: none;
+}
+
+/*page styling*/
+
+body {
+    background-color:white;
+}
+
+
+/** heading styling **/
+
+/*hide the section headers */
+#slice_129 .chart-header,
+#slice_136 .chart-header,
+#slice_138 .chart-header{
+    display: none;
+}
+
+#con_129,
+#con_136,
+#con_138{
+    height: 100% !important;
+}
+
+.page-heading--headline {
+    font-weight: 400;
+    font-size: 62px;
+    margin-bottom: 21px;
+}
+
+
+.section-heading--headline {
+    background-color: #14558f;
+    color: #ffffff;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 43px;
+    margin-bottom: 42px;
+}
+
+.section-heading--paragraph {
+    width: 75%;
+}
+
+.footnote--paragraph {
+    font-size: 12px;   
+}
+
+
+/** chart styling general**/
+.chart-header {
+    margin: 20px 10px;
+}
+.chart-header .header {
+    font-size: 14px;
+}
+
+.dataTables_scrollHeadInner,
+.dataTable{
+    font-size: 22px;
+}
+
+.widget.table tr>td,
+.widget.table tr>th {
+    padding: 5px 5px !important;
+    font-size: 14px !important;
+}
+
+.table .table {
+    background-color: inherit;
+}
+
+/** chart styling specific **/
+
+#slice_137 .table-striped .text-right,
+#slice_141 .table-striped .text-right{
+    background-image: none !important;
+}
