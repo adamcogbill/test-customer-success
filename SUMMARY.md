@@ -5,4 +5,4 @@
   * [Why can't I have colspan](tables/colspan-inside-td.md) 
 * [Mosaic on other pages?](org-pages/mosaic/mosaics-org-only.md)
 * [Test pages](testpages.md)
-  * [Test 1]testpages/Customer-success-take-1.md)
+  * [Test 1](testpages/Customer-success-take-1.md)
