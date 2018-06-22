@@ -10,3 +10,5 @@ We recommend that you try to:
 * Continue to use header formatting for the column headers.
 
 For more on using tables with the Mass.gov CMS, [try our resource on clear, accessible tables](https://medium.com/massdigital/creating-clear-accessible-data-tables-959f8a121cb).
+
+![gras](Medium Post-29.png)
