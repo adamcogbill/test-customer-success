@@ -1,6 +1,9 @@
-<link href="test-customer-success/style/website.css" rel="stylesheet"></link> 
-<link rel="test-customer-success/style/website.css" href="styles.css">
-<style> @import url("test-customer-success/style/website.css"); </style>
+<html>
+<head>
+    <title>My Notes</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+  </html>
 
 # Another page
 
