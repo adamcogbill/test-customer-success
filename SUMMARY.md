@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Help resources test book](README.md)
-* [Tables](tables.md)
-  * [colspan attribute](tables/colspan-inside-td.md) 
-* [Organization Pages](test-customer-success/org-pages/)
-  * [Mosaic on other pages?](org-pages/mosaic/mosaics-org-only.md)
-* [Test pages](testpages.md)
-  * [Test 1](testpages/Customer-success-take-1.md)
+* [Tables](tables/README.md)
+  * [colspan attribute](tables/colspan-attribute.md)
+* [Organization Pages](organization-pages/README.md)
+  * [Mosaic on other pages?](organization-pages/mosaic-on-other-pages.md)
+* [Test pages](test-pages/README.md)
+  * [Test 1](test-pages/test-1.md)
+
